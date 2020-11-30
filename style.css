@@ -2,3 +2,37 @@
     margin: auto;
 
 }
+
+.card {
+    width: 170px;
+    justify-content: center;
+    align-items: center;
+    margin : auto;
+    
+}
+
+.card-header, .card-footer {
+    background-color: brown;
+    color : white;
+    width:100%;
+    text-align: center;
+    
+}
+.card-body{
+    text-align: center;
+}
+
+.exercise4 {
+    display: flex;
+    flex-wrap:wrap;
+    margin: auto;
+}
+
+.exercise4 h1 {
+    width: 100%;
+}
+
+.exercise4  p {
+    margin : auto;
+    font-size: 72px;
+}
